@@ -1,3 +1,4 @@
+A comprehensive content management system for [fadl4n.com](https://fadl4n.com), designed to help you effortlessly create, edit, and manage articles, content, and various website functionalities. With an intuitive interface and powerful tools, Fadl4n Admin streamlines the process of maintaining your website, ensuring efficient and seamless operation.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
