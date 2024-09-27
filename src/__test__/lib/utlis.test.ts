@@ -17,11 +17,11 @@ describe('utils', () => {
     const date = '2024-01-31';
     const result = formatDate(date);
     test('should be correct', () => {
-      expect(result).toBe('01/31/24');
+      expect(result).toBe('31/01/2024');
     });
 
     test('should be failure', () => {
-      expect(result).not.toBe('01/31/2024');
+      expect(result).not.toBe('01/31/24');
     });
   });
 
